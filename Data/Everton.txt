@@ -1,0 +1,28 @@
+1	Joel Robles	Joel Robles Keeper Jun 17, 1990 (26)	Spain	5,00 Mill. €  
+22	Maarten Stekelenburg	Maarten Stekelenburg Keeper Sep 22, 1982 (34)	Netherlands	2,00 Mill. €  
+25	Ramiro Funes Mori	Ramiro Funes Mori Centre-Back Mar 5, 1991 (25)	Argentina	12,00 Mill. €  
+5	Ashley Williams	Ashley Williams Centre-Back Aug 23, 1984 (32)	Wales 8,00 Mill. €  
+6	Phil Jagielka	Phil Jagielka Centre-Back Aug 17, 1982 (34)	England 3,50 Mill. €  
+30	Mason Holgate	Mason Holgate Centre-Back Oct 22, 1996 (20)	England	1,00 Mill. €  
+38	Matthew Pennington	Matthew Pennington Centre-Back Oct 6, 1994 (22)	England	 0,00 Mill. €  
+3	Leighton Baines	Leighton Baines Left-Back Dec 11, 1984 (32)	England	13,00 Mill. €  
+20	Bryan Oviedo	Bryan Oviedo Left-Back Feb 18, 1990 (26)	Costa Rica	3,00 Mill. €  
+23	Seamus Coleman	Seamus Coleman Right-Back Oct 11, 1988 (28)	Ireland	17,00 Mill. €  
+27	Tyias Browning	Tyias Browning Right-Back May 27, 1994 (22)	England 1,00 Mill. €  
+21	Muhamed Besic	Muhamed Besic  Defensive Midfield Sep 10, 1992 (24)	Bosnia-Herzegovina 6,00 Mill. €  
+18	Gareth Barry	Gareth Barry Defensive Midfield Feb 23, 1981 (35)	England	2,00 Mill. €  
+16	James McCarthy	James McCarthy Central Midfield Nov 12, 1990 (26)	Ireland 17,00 Mill. €  
+17	Idrissa Gueye	Idrissa Gueye Central Midfield Sep 26, 1989 (27)	Senegal	11,00 Mill. €  
+15	Tom Cleverley	Tom Cleverley Central Midfield Aug 12, 1989 (27)	England	9,00 Mill. €  
+4	Darron Gibson	Darron Gibson Central Midfield Oct 25, 1987 (29)	Ireland 1,50 Mill. €  
+8	Ross Barkley	Ross Barkley Attacking Midfield Dec 5, 1993 (23)	England	22,00 Mill. €  
+7	Gerard Deulofeu	Gerard Deulofeu Right Wing Mar 13, 1994 (22)	Spain	9,00 Mill. €  
+12	Aaron Lennon	Aaron Lennon Right Wing Apr 16, 1987 (29)	England	6,00 Mill. €  
+14	Yannick Bolasie	Yannick Bolasie Left Wing May 24, 1989 (27)	Congo DR 20,00 Mill. €  
+11	Kevin Mirallas	Kevin Mirallas Right Wing Oct 5, 1987 (29)	Belgium	13,00 Mill. €  
+10	Romelu Lukaku	Romelu Lukaku Centre-Forward May 13, 1993 (23)	Belgium 40,00 Mill. €  
+-	Oumar Niasse	Oumar Niasse Centre-Forward Apr 18, 1990 (26)	Senegal	12,00 Mill. €  
+19	Enner Valencia	Enner Valencia centre-Forward Nov 4, 1989 (27)	Ecuador	10,00 Mill. €  
+9	Arouna Koné	Arouna Koné Centre-Forward Nov 11, 1983 (33)	Cote d'Ivoire	2,50 Mill. €  
+-	Leandro Rodríguez	Leandro Rodríguez Centre-Forward Nov 19, 1992 (24)	Uruguay 1,50 Mill. €  
+67	Conor McAleny	Conor McAleny Centre-Forward Aug 12, 1992 (24)	England	250 Th. €  

@@ -1,0 +1,25 @@
+1	Hugo Lloris	Hugo Lloris Keeper Dec 26, 1986 (30)	France	24,00 Mill. €  
+13	Michel Vorm	Michel Vorm Keeper Oct 20, 1983 (33)	Netherlands 5,00 Mill. €  
+30	Pau López	Pau López Keeper Dec 13, 1994 (22)	Spain	1,50 Mill. €  
+4	Toby Alderweireld	Toby Alderweireld Centre-Back Mar 2, 1989 (27)	Belgium	27,00 Mill. €  
+5	Jan Vertonghen	Jan Vertonghen Centre-Back Apr 24, 1987 (29)	Belgium	23,00 Mill. €  
+27	Kevin Wimmer	Kevin Wimmer Centre-Back Nov 15, 1992 (24)	Austria	7,00 Mill. €  
+38	Cameron Carter-Vickers	Cameron Carter-Vickers Centre-Back Dec 31, 1997 (18)	England	500 Th. €  
+3	Danny Rose	Danny Rose Left-Back Jul 2, 1990 (26)	England 14,00 Mill. €  
+33	Ben Davies	Ben Davies Left-Back Apr 24, 1993 (23)	Wales	9,00 Mill. €  
+2	Kyle Walker	Kyle Walker Right-Back May 28, 1990 (26)	England	15,00 Mill. €  
+16	Kieran Trippier	Kieran Trippier Right-Back Sep 19, 1990 (26)	England	6,00 Mill. €  
+15	Eric Dier	Eric Dier Defensive Midfield Jan 15, 1994 (22)	England 18,00 Mill. €  
+12	Southampton FC Victor Wanyama	Victor Wanyama Defensive Midfield Jun 25, 1991 (25)	Kenya	15,00 Mill. €  
+17	Newcastle United Moussa Sissoko	Moussa Sissoko Central Midfield Aug 16, 1989 (27)	France 20,00 Mill. €  
+20	Dele Alli	Dele Alli Central Midfield Apr 11, 1996 (20)	England 20,00 Mill. €  
+19	Mousa Dembélé	Mousa Dembélé Central Midfield Jul 16, 1987 (29)	Belgium 18,00 Mill. €  
+28	Tom Carroll	Tom Carroll Central Midfield May 28, 1992 (24)	England	5,00 Mill. €  
+29	Harry Winks	Harry Winks Central Midfield Feb 2, 1996 (20)	England	1,00 Mill. €  
+23	Christian Eriksen	Christian Eriksen Attacking Midfield Feb 14, 1992 (24)	Denmark	31,00 Mill. €  
+25	Josh Onomah	Josh Onomah Attacking Midfield Apr 27, 1997 (19)	England 2,00 Mill. €  
+14	Georges-Kevin N'Koudou	Georges-Kevin N'Koudou Left Wing Feb 13, 1995 (21)	France 8,00 Mill. €  
+11	Érik Lamela	Érik Lamela Right Wing Mar 4, 1992 (24)	Argentina 26,00 Mill. €  
+7	Heung-Min Son	Heung-Min Son Left Wing Jul 8, 1992 (24)	Korea, South	25,00 Mill. €  
+10	Harry Kane	Harry Kane Centre-Forward Jul 28, 1993 (23)	England	40,00 Mill. €  
+9	Vincent Janssen	Vincent Janssen Centre-Forward Jun 15, 1994 (22)	Netherlands	14,00 Mill. €  

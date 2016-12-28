@@ -1,0 +1,26 @@
+1	Kasper Schmeichel	Kasper Schmeichel Keeper Nov 5, 1986 (30)	Denmark	8,00 Mill. €  
+21	Ron-Robert Zieler	Ron-Robert Zieler Keeper Feb 12, 1989 (27)	Germany	8,00 Mill. €  
+12	Ben Hamer	Ben Hamer Keeper Nov 20, 1987 (29)	England	500 Th. €  
+6	Robert Huth	Robert Huth Centre-Back Aug 18, 1984 (32)	Germany	6,00 Mill. €  
+5	Wes Morgan	Wes Morgan Centre-Back Jan 21, 1984 (32)	England	3,50 Mill. €  
+29	Yohan Benalouane	Yohan Benalouane Centre-Back Mar 28, 1987 (29)	France	2,00 Mill. €  
+27	Marcin Wasilewski	Marcin Wasilewski Centre-Back Jun 9, 1980 (36)	Poland	500 Th. €  
+15	Jeffrey Schlupp	Jeffrey Schlupp Left-Back Dec 23, 1992 (24)	Germany	8,00 Mill. €  
+28	Christian Fuchs	Christian Fuchs Left-Back Apr 7, 1986 (30)	Austria	6,00 Mill. €  
+3	Ben Chilwell	Ben Chilwell Left-Back Dec 21, 1996 (20)	England	2,50 Mill. €  
+17	Danny Simpson	Danny Simpson Right-Back Jan 4, 1987 (29)	England 5,00 Mill. €  
+2	Luis Hernández	Luis Hernández Right-Back Aug 14, 1989 (27)	Spain	3,50 Mill. €  
+24	Nampalys Mendy	Nampalys Mendy Defensive Midfield Jun 23, 1992 (24)	France 12,00 Mill. €  
+13	Daniel Amartey	Daniel Amartey Defensive Midfield Dec 21, 1994 (22)	Ghana	5,00 Mill. €  
+4	Danny Drinkwater	Danny Drinkwater Central Midfield Mar 5, 1990 (26)	England	10,00 Mill. €  
+10	Andy King	Andy King Central Midfield Oct 29, 1988 (28)	England	3,50 Mill. €  
+8	Matty James	Matty James Central Midfield Jul 22, 1991 (25)	England	1,50 Mill. €  
+11	Marc Albrighton	Marc Albrighton Left Midfield Nov 18, 1989 (27)	England	6,00 Mill. €  
+14	Bartosz Kapustka	Bartosz Kapustka Attacking Midfield Dec 23, 1996 (20)	Poland	7,00 Mill. €  
+22	Demarai Gray	Demarai Gray Left Wing Jun 28, 1996 (20)	England 6,00 Mill. €  
+26	Riyad Mahrez	Riyad Mahrez Right Wing Feb 21, 1991 (25)	France	30,00 Mill. €  
+19	Islam Slimani	Islam Slimani Centre-Forward Jun 18, 1988 (28)	Algeria	25,00 Mill. €  
+9	Jamie Vardy	Jamie Vardy Centre-Forward Jan 11, 1987 (29)	England	20,00 Mill. €  
+7	Ahmed Musa	Ahmed Musa Centre-Forward Oct 14, 1992 (24)	Nigeria	18,00 Mill. €  
+20	Shinji Okazaki	Shinji Okazaki Centre-Forward Apr 16, 1986 (30)	Japan	10,00 Mill. €  
+23	Leonardo Ulloa	Leonardo Ulloa Centre-Forward Jul 26, 1986 (30)	Spain	8,00 Mill. €  

@@ -1,0 +1,27 @@
+1	Fraser Forster	Fraser Forster Keeper Mar 17, 1988 (28)	England	15,00 Mill. €  
+13	Alex McCarthy	Alex McCarthy Keeper Dec 3, 1989 (27)	England	3,00 Mill. €  
+28	Stuart Taylor	Stuart Taylor Keeper Nov 28, 1980 (36)	England	250 Th. €  
+17	Virgil van Dijk	Virgil van Dijk Centre-Back Jul 8, 1991 (25)	Netherlands 16,00 Mill. €  
+6	José Fonte	José Fonte Centre-Back Dec 22, 1983 (33)	Portugal	6,00 Mill. €  
+5	Florin Gardos	Florin Gardos Centre-Back Oct 29, 1988 (28)	Romania	5,00 Mill. €  
+3	Maya Yoshida	Maya Yoshida Centre-Back Aug 24, 1988 (28)	Japan	4,00 Mill. €  
+24	Jack Stephens	Jack Stephens Centre-Back Jan 27, 1994 (22)	England	250 Th. €  
+21	Ryan Bertrand	Ryan Bertrand Left-Back Aug 5, 1989 (27)	England	14,00 Mill. €  
+33	Matt Targett	Matt Targett Left-Back Sep 18, 1995 (21)	England 3,00 Mill. €  
+2	Cédric Soares	Cédric Soares Right-Back Aug 31, 1991 (25)	Portugal 12,00 Mill. €  
+15	Cuco Martina	Cuco Martina Right-Back Sep 25, 1989 (27)	Curacao 2,00 Mill. €  
+4	Jordy Clasie	Jordy Clasie Defensive Midfield Jun 27, 1991 (25)	Netherlands	11,00 Mill. €  
+14	Oriol Romeu	Oriol Romeu Defensive Midfield Sep 24, 1991 (25)	Spain	5,00 Mill. €  
+16	James Ward-Prowse	James Ward-Prowse Central Midfield Nov 1, 1994 (22)	England	11,00 Mill. €  
+23	Pierre-Emile Höjbjerg	Pierre-Emile Höjbjerg Central Midfield Aug 5, 1995 (21)	Denmark 8,00 Mill. €  
+8	Steven Davis	Steven Davis Central Midfield Jan 1, 1985 (31)	Northern Ireland	6,00 Mill. €  
+18	Harrison Reed	Harrison Reed Central Midfield Jan 27, 1995 (21)	England	1,50 Mill. €  
+26	Jérémy Pied	Jérémy Pied Right Midfield Feb 23, 1989 (27)	France	3,50 Mill. €  
+38	Sam McQueen	Sam McQueen Left Midfield Feb 6, 1995 (21)	England	250 Th. €  
+19	Sofiane Boufal	Sofiane Boufal Attacking Midfield Sep 17, 1993 (23)	Morocco 15,00 Mill. €  
+11	Dusan Tadic	Dusan Tadic Left Wing Nov 20, 1988 (28)	Serbia	17,00 Mill. €  
+22	Nathan Redmond	Nathan Redmond Right Wing Mar 6, 1994 (22)	England 10,00 Mill. €  
+27	Lloyd Isgrove	Lloyd Isgrove Right Wing Jan 12, 1993 (23)	Wales England	250 Th. €  
+9	Jay Rodríguez	Jay Rodríguez Left Wing Jul 29, 1989 (27)	England 13,00 Mill. €  
+10	Charlie Austin	Charlie Austin Centre-Forward Jul 5, 1989 (27)	England	13,00 Mill. €  
+7	Shane Long	Shane Long Centre-Forward Jan 22, 1987 (29)	Ireland	10,00 Mill. €  

@@ -1,0 +1,27 @@
+13	Adrián	Adrián Keeper Jan 3, 1987 (29)	Spain	9,00 Mill. €  
+1	Darren Randolph	Darren Randolph Keeper May 12, 1987 (29)	Ireland	1,50 Mill. €  
+34	Raphael Spiegel	Raphael Spiegel Keeper Dec 19, 1992 (24)	Switzerland	500 Th. €  
+2	Winston Reid	Winston Reid Centre-Back Jul 3, 1988 (28)	New Zealand 10,00 Mill. €  
+21	Angelo Ogbonna	Angelo Ogbonna Centre-Back May 23, 1988 (28)	Italy 9,00 Mill. €  
+35	Reece Oxford	Reece Oxford Centre-Back Dec 16, 1998 (18)	England 4,00 Mill. €  
+19	James Collins	James Collins Centre-Back Aug 23, 1983 (33)	Wales	2,00 Mill. €  
+3	Aaron Cresswell	Aaron Cresswell Left-Back Dec 15, 1989 (27)	England	12,00 Mill. €  
+26	Arthur Masuaku	Arthur Masuaku Left-Back Nov 7, 1993 (23)	France 7,00 Mill. €  
+22	Sam Byram	Sam Byram Right-Back Sep 16, 1993 (23)	England	4,50 Mill. €  
+5	Álvaro Arbeloa	Álvaro Arbeloa Right-Back Jan 17, 1983 (33)	Spain	2,00 Mill. €  
+8	Cheikhou Kouyaté	Cheikhou Kouyaté Defensive Midfield Dec 21, 1989 (27)	Senegal 12,00 Mill. €  
+4	Havard Nordtveit	Havard Nordtveit Defensive Midfield Jun 21, 1990 (26)	Norway	6,00 Mill. €  
+14	Pedro Obiang	Pedro Obiang Central Midfield Mar 27, 1992 (24)	Spain 8,00 Mill. €  
+16	Mark Noble	Mark Noble Central Midfield May 8, 1987 (29)	England 7,00 Mill. €  
+10	Manuel Lanzini	Manuel Lanzini Attacking Midfield Feb 15, 1993 (23)	Argentina 10,00 Mill. €  
+31	Edimilson Fernandes	Edimilson Fernandes Attacking Midfield Apr 15, 1996 (20)	Switzerland 4,50 Mill. €  
+27	Dimitri Payet	Dimitri Payet Left Wing Mar 29, 1987 (29)	France	30,00 Mill. €  
+20	André Ayew	André Ayew Left Wing Dec 17, 1989 (27)	Ghana 18,00 Mill. €  
+7	Sofiane Feghouli	Sofiane Feghouli Right Wing Dec 26, 1989 (27)	Algeria 14,00 Mill. €  
+17	Gökhan Töre	Gökhan Töre Right Wing Jan 20, 1992 (24)	Turkey 14,00 Mill. €  
+30	Michail Antonio	Michail Antonio Right Wing Mar 28, 1990 (26)	England 13,00 Mill. €  
+11	Simone Zaza	Simone Zaza Centre-Forward Jun 25, 1991 (25)	Italy	15,00 Mill. €  
+15	Diafra Sakho	Diafra Sakho Centre-Forward Dec 24, 1989 (27)	Senegal 12,00 Mill. €  
+9	Andy Carroll	Andy Carroll Centre-Forward Jan 6, 1989 (27)	England	10,00 Mill. €  
+28	Jonathan Calleri	Jonathan Calleri Centre-Forward Sep 23, 1993 (23)	Argentina 10,00 Mill. €  
+24	Ashley Fletcher	Ashley Fletcher Centre-Forward Oct 2, 1995 (21)	England	1,00 Mill. €  

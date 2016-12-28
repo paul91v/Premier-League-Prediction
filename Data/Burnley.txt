@@ -1,0 +1,22 @@
+1	Tom Heaton	Tom Heaton Keeper Apr 15, 1986 (30)	England	3,00 Mill. €  
+29	Nick Pope	Nick Pope Keeper Apr 19, 1992 (24)	England	750 Th. €  
+17	Paul Robinson	Paul Robinson Keeper Oct 15, 1979 (37)	England	250 Th. €  
+5	Michael Keane	Michael Keane Centre-Back Jan 11, 1993 (23)	England 8,00 Mill. €  
+26	James Tarkowski	James Tarkowski Centre-Back Nov 19, 1992 (24)	England	2,00 Mill. €  
+28	Kevin Long	Kevin Long Centre-Back Aug 18, 1990 (26)	Ireland	250 Th. €  
+6	Ben Mee	Ben Mee Left-Back Sep 21, 1989 (27)	England	3,50 Mill. €  
+23	Stephen Ward	Stephen Ward Left-Back Aug 20, 1985 (31)	Ireland	1,00 Mill. €  
+4	Jon Flanagan	Jon Flanagan Right-Back Jan 1, 1993 (23)	England 4,00 Mill. €  
+2	Matthew Lowton	Matthew Lowton Right-Back Jun 9, 1989 (27)	England	1,50 Mill. €  
+27	Tendayi Darikwa	Tendayi Darikwa Right-Back Dec 13, 1991 (25)	England 750 Th. €  
+16	Steven Defour	Steven Defour Central Midfield Apr 15, 1988 (28)	Belgium	6,00 Mill. €  
+13	Jeff Hendrick	Jeff Hendrick Central Midfield Jan 31, 1992 (24)	Ireland	5,00 Mill. €  
+8	Dean Marney	Dean Marney Central Midfield Jan 31, 1984 (32)	England	1,00 Mill. €  
+21	George Boyd	George Boyd Right Midfield Oct 2, 1985 (31)	Scotland 4,00 Mill. €  
+37	Scott Arfield	Scott Arfield Left Midfield Nov 1, 1988 (28)	Canada 3,00 Mill. €  
+11	Michael Kightly	Michael Kightly Left Wing Jan 24, 1986 (30)	England	1,50 Mill. €  
+25	Johann Berg Gudmundsson	Johann Berg Gudmundsson Right Wing Oct 27, 1990 (26)	Iceland	2,50 Mill. €  
+7	Andre Gray	Andre Gray Centre-Forward Jun 26, 1991 (25)	England 10,00 Mill. €  
+15	Patrick Bamford	Patrick Bamford Centre-Forward Sep 5, 1993 (23)	England 5,00 Mill. €  
+9	Sam Vokes	Sam Vokes Centre-Forward Oct 21, 1989 (27)	Wales 4,00 Mill. €  
+10	Ashley Barnes	Ashley Barnes Centre-Forward Oct 30, 1989 (27)	England	2,00 Mill. €  

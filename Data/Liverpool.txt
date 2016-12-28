@@ -1,0 +1,28 @@
+22	Simon Mignolet	Simon Mignolet Keeper Mar 6, 1988 (28)	Belgium	12,00 Mill. €  
+1	Loris Karius	Loris Karius Keeper Jun 22, 1993 (23)	Germany	9,00 Mill. €  
+34	Ádám Bogdán	Ádám Bogdán Keeper Sep 27, 1987 (29)	Hungary	1,50 Mill. €  
+13	Alexander Manninger	Alexander Manninger Keeper Jun 4, 1977 (39)	Austria	200 Th. €  
+32	Joel Matip	Joel Matip Centre-Back Aug 8, 1991 (25)	Cameroon 18,00 Mill. €  
+6	Dejan Lovren	Dejan Lovren Centre-Back Jul 5, 1989 (27)	Croatia	15,00 Mill. €  
+3	Mamadou Sakho	Mamadou Sakho Centre-Back Feb 13, 1990 (26)	France12,00 Mill. €  
+17	Ragnar Klavan	Ragnar Klavan Centre-Back Oct 30, 1985 (31)	Estonia	4,00 Mill. €  
+12	Joe Gomez	Joe Gomez Centre-Back May 23, 1997 (19)	England 3,50 Mill. €  
+26	Tiago Ilori	Tiago Ilori Centre-Back Feb 26, 1993 (23)	Portugal 3,00 Mill. €  
+18	Alberto Moreno	Alberto Moreno Left-Back Jul 5, 1992 (24)	Spain	12,00 Mill. €  
+2	Nathaniel Clyne	Nathaniel Clyne Right-Back Apr 5, 1991 (25)	England	21,00 Mill. €  
+56	Connor Randall	Connor Randall Right-Back Oct 21, 1995 (21)	England	500 Th. €  
+23	Emre Can	Emre Can Defensive Midfield Jan 12, 1994 (22)	Germany	18,00 Mill. €  
+21	Lucas Leiva	Lucas Leiva Defensive Midfield Jan 9, 1987 (29)	Brazil 10,00 Mill. €  
+35	Kevin Stewart	Kevin Stewart Defensive Midfield Sep 7, 1993 (23)	England 1,00 Mill. €  
+14	Jordan Henderson	Jordan Henderson  Central Midfield Jun 17, 1990 (26)	England	28,00 Mill. €  
+7	James Milner	James Milner Central Midfield Jan 4, 1986 (30)	England	15,00 Mill. €  
+16	Marko Grujic	Marko Grujic Central Midfield Apr 13, 1996 (20)	Serbia	5,00 Mill. €  
+10	Philippe Coutinho	Philippe Coutinho Attacking Midfield Jun 12, 1992 (24)	Brazil	35,00 Mill. €  
+5	Georginio Wijnaldum	Georginio Wijnaldum Attacking Midfield Nov 11, 1990 (26)	Netherlands 22,00 Mill. €  
+20	Adam Lallana	Adam Lallana Attacking Midfield May 10, 1988 (28)	England	19,00 Mill. €  
+19	Sadio Mané	Sadio Mané  Left Wing Apr 10, 1992 (24)	Senegal	30,00 Mill. €  
+54	Sheyi Ojo	Sheyi Ojo Left Wing Jun 19, 1997 (19)	England 2,00 Mill. €  
+11	Roberto Firmino	Roberto Firmino Secondary Striker Oct 2, 1991 (25)	Brazil	35,00 Mill. €  
+15	Daniel Sturridge	Daniel Sturridge Centre-Forward Sep 1, 1989 (27)	England25,00 Mill. €  
+28	Danny Ings	Danny Ings Centre-Forward Jul 23, 1992 (24)	England	12,00 Mill. €  
+27	Divock Origi	Divock Origi Centre-Forward Apr 18, 1995 (21)	Belgium 11,00 Mill. €  

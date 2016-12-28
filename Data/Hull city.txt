@@ -1,0 +1,26 @@
+23	David Marshall	David Marshall Keeper Mar 5, 1985 (31)	Scotland	3,00 Mill. €  
+1	Allan McGregor	Allan McGregor Keeper Jan 31, 1982 (34)	Scotland	1,50 Mill. €  
+12	Dusan Kuciak	Dusan Kuciak Keeper May 21, 1985 (31)	Slovakia	1,00 Mill. €  
+16	Eldin Jakupovic	Eldin Jakupovic Keeper Oct 2, 1984 (32)	Switzerland 500 Th. €  
+6	Curtis Davies	Curtis Davies Centre-Back Mar 15, 1985 (31)	England 3,50 Mill. €  
+21	Michael Dawson	Michael Dawson Centre-Back Nov 18, 1983 (33)	England	3,50 Mill. €  
+5	Harry Maguire	Harry Maguire Centre-Back Mar 5, 1993 (23)	England	2,50 Mill. €  
+4	Alex Bruce	Alex Bruce Centre-Back Sep 28, 1984 (32)	Northern Ireland 1,00 Mill. €  
+3	Andrew Robertson	Andrew Robertson Left-Back Mar 11, 1994 (22)	Scotland	7,00 Mill. €  
+2	Moses Odubajo	Moses Odubajo Right-Back Jul 28, 1993 (23)	England 5,00 Mill. €  
+31	Brian Lenihan	Brian Lenihan Right-Back Jun 8, 1994 (22)	Ireland	100 Th. €  
+8	Tom Huddlestone	Tom Huddlestone Defensive Midfield Dec 28, 1986 (29)	England	5,00 Mill. €  
+14	Jake Livermore	Jake Livermore Defensive Midfield Nov 14, 1989 (27)	England	4,50 Mill. €  
+25	Ryan Mason	Ryan Mason Central Midfield Jun 13, 1991 (25)	England	8,50 Mill. €  
+22	Markus Henriksen	Markus Henriksen Central Midfield Jul 25, 1992 (24)	Norway	5,00 Mill. €  
+7	David Meyler	David Meyler Central Midfield May 29, 1989 (27)	Ireland	2,50 Mill. €  
+17	James Weir	James Weir Central Midfield Aug 4, 1995 (21)	England	500 Th. €  
+27	Ahmed Elmohamady	Ahmed Elmohamady Right Midfield Sep 9, 1987 (29)	Egypt	4,00 Mill. €  
+11	Samuel Clucas	Samuel Clucas Left Midfield Sep 25, 1990 (26)	England	1,50 Mill. €  
+15	Shaun Maloney	Shaun Maloney Attacking Midfield Jan 24, 1983 (33)	Scotland	1,50 Mill. €  
+10	Robert Snodgrass	Robert Snodgrass Right Wing Sep 7, 1987 (29)	Scotland	5,00 Mill. €  
+9	Abel Hernández	Abel Hernández Centre-Forward Aug 8, 1990 (26)	Uruguay	8,00 Mill. €  
+18	Dieumerci Mbokani	Dieumerci Mbokani Centre-Forward Nov 22, 1985 (31)	Congo DR	7,00 Mill. €  
+19	Will Keane	Will Keane Centre-Forward Jan 11, 1993 (23)	England 1,50 Mill. €  
+20	Adama Diomande	Adama Diomande Centre-Forward Feb 14, 1990 (26)	Norway 1,50 Mill. €  
+32	Greg Luer	Greg Luer Centre-Forward Dec 6, 1994 (22)	England	250 Th. €  

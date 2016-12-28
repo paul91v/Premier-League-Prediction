@@ -1,0 +1,27 @@
+1	Artur Boruc	Artur Boruc Keeper Feb 20, 1980 (36)	Poland	1,00 Mill. €  
+23	Adam Federici	Adam Federici Keeper Jan 31, 1985 (31)	Australia 1,00 Mill. €  
+21	Ryan Allsop	Ryan Allsop Keeper Jun 17, 1992 (24)	England	250 Th. €  
+3	Steve Cook	Steve Cook Centre-Back Apr 19, 1991 (25)	England	5,00 Mill. €  
+5	Nathan Aké	Nathan Aké Centre-Back Feb 18, 1995 (21)	Netherlands	5,00 Mill. €  
+20	Marc Wilson	Marc Wilson Centre-Back Aug 17, 1987 (29)	Ireland 3,00 Mill. €  
+26	Tyrone Mings	Tyrone Mings Left-Back Mar 13, 1993 (23)	England 6,00 Mill. €  
+11	Charlie Daniels	Charlie Daniels Left-Back Sep 7, 1986 (30)	England	2,50 Mill. €  
+14	Brad Smith	Brad Smith Left-Back Apr 9, 1994 (22)	Australia 2,00 Mill. €  
+2	Simon Francis	Simon Francis Right-Back Feb 16, 1985 (31)	England	2,50 Mill. €  
+15	Adam Smith	Adam Smith Right-Back Apr 29, 1991 (25)	England	2,00 Mill. €  
+32	Jack Wilshere	Jack Wilshere Central Midfield Jan 1, 1992 (24)	England	23,00 Mill. €  
+18	Lewis Cook	Lewis Cook Central Midfield Feb 3, 1997 (19)	England	5,00 Mill. €  
+4	Dan Gosling	Dan Gosling Central Midfield Feb 2, 1990 (26)	England	3,00 Mill. €  
+6	Andrew Surman	Andrew Surman Central Midfield Aug 20, 1986 (30)	England 2,00 Mill. €  
+8	Harry Arter	Harry Arter Central Midfield Dec 28, 1989 (26)	Ireland England	2,00 Mill. €  
+22	Emerson Hyndman	Emerson Hyndman Central Midfield Apr 7, 1996 (20)	United States 1,00 Mill. €  
+10	Max Gradel	Max Gradel Left Wing Nov 30, 1987 (29)	Cote d'Ivoire 9,00 Mill. €  
+19	Junior Stanislas	Junior Stanislas Left Wing Nov 26, 1989 (27)	England 4,00 Mill. €  
+7	Marc Pugh	Marc Pugh Left Wing Apr 2, 1987 (29)	England	2,00 Mill. €  
+24	Ryan Fraser	Ryan Fraser Left Wing Feb 24, 1994 (22)	Scotland	500 Th. €  
+33	Jordon Ibe	Jordon Ibe Right Wing Dec 8, 1995 (21)	England 10,00 Mill. €  
+17	Joshua King	Joshua King Secondary Striker Jan 15, 1992 (24)	Norway 4,00 Mill. €  
+9	Benik Afobe	Benik Afobe Centre-Forward Feb 12, 1993 (23)	Congo DR 9,00 Mill. €  
+13	Callum Wilson	Callum Wilson Centre-Forward Feb 27, 1992 (24)	England	9,00 Mill. €  
+31	Lys Mousset	Lys Mousset Centre-Forward Feb 8, 1996 (20)	France	5,00 Mill. €  
+28	Lewis Grabban	Lewis Grabban Centre-Forward Jan 12, 1988 (28)	Jamaica 3,00 Mill. €  

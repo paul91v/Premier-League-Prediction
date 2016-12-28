@@ -1,0 +1,20 @@
+Manchester United	548,25 Mill.  	20,31 Mill.  
+Chelsea FC	530,30 Mill.  	19,64 Mill.  
+Manchester City	524,25 Mill.  	22,79 Mill.  
+Arsenal FC	490,50 Mill.  	16,91 Mill.  
+Liverpool FC	379,70 Mill.  	13,56 Mill.  
+Tottenham Hotspur	375,00 Mill.  	15,00 Mill.  
+Everton FC	248,25 Mill.  	8,87 Mill.  
+West Ham United	246,00 Mill.  	9,11 Mill.  
+Leicester City 	215,50 Mill.  	8,29 Mill.  
+Southampton FC	205,00 Mill.  	7,59 Mill.  
+Stoke City	171,25 Mill.  	6,34 Mill.  
+Crystal Palace	160,75 Mill.  	6,43 Mill.  
+Watford FC	122,00 Mill.  	4,36 Mill.  
+AFC Bournemouth	121,75 Mill.  	4,51 Mill.  
+Swansea City	111,75 Mill.  	4,66 Mill.  
+West Bromwich Albion	110,60 Mill.  	5,03 Mill.  
+Middlesbrough FC  	102,75 Mill.  	3,81 Mill.  
+Sunderland AFC	99,50 Mill.  	3,98 Mill.  
+Hull City  	84,85 Mill.  	3,26 Mill.  
+Burnley FC  	69,00 Mill.  	3,14 Mill.  

@@ -1,0 +1,25 @@
+30	Steve Mandanda	Steve Mandanda Keeper Mar 28, 1985 (31)	France 10,00 Mill. €  
+13	Wayne Hennessey	Wayne Hennessey Keeper Jan 24, 1987 (29)	Wales	4,00 Mill. €  
+1	Julián Speroni	Julián Speroni Keeper May 18, 1979 (37)	Argentina 500 Th. €  
+5	James Tomkins	James Tomkins Centre-Back Mar 29, 1989 (27)	England	7,00 Mill. €  
+6	Scott Dann	Scott Dann Centre-Back Feb 14, 1987 (29)	England	5,00 Mill. €  
+27	Damien Delaney	Damien Delaney Centre-Back Jul 20, 1981 (35)	Ireland	1,50 Mill. €  
+23	Pape Souaré	Pape Souaré Left-Back Jun 6, 1990 (26)	Senegal	6,50 Mill. €  
+19	Zeki Fryers	Zeki Fryers Left-Back Sep 9, 1992 (24)	England	2,50 Mill. €  
+2	Joel Ward	Joel Ward Right-Back Oct 29, 1989 (27)	England	5,00 Mill. €  
+34	Martin Kelly	Martin Kelly Right-Back Apr 27, 1990 (26)	England	3,50 Mill. €  
+4	Mathieu Flamini	Mathieu Flamini Defensive Midfield Mar 7, 1984 (32)	France	3,00 Mill. €  
+7	Yohan Cabaye	Yohan Cabaye Central Midfield Jan 14, 1986 (30)	France	18,00 Mill. €  
+18	James McArthur	James McArthur Central Midfield Oct 7, 1987 (29)	Scotland	7,00 Mill. €  
+16	Joe Ledley	Joe Ledley Central Midfield Jan 23, 1987 (29)	Wales	4,00 Mill. €  
+22	Jordon Mutch	Jordon Mutch Central Midfield Dec 2, 1991 (25)	England	4,00 Mill. €  
+26	Bakary Sako	Bakary Sako Left Wing Apr 26, 1988 (28)	Mali 8,00 Mill. €  
+10	Andros Townsend	Andros Townsend Right Wing Jul 16, 1991 (25)	England	11,00 Mill. €  
+11	Wilfried Zaha	Wilfried Zaha Right Wing Nov 10, 1992 (24)	Cote d'Ivoire 9,00 Mill. €  
+42	Jason Puncheon	Jason Puncheon Right Wing Jun 26, 1986 (30)	England 5,00 Mill. €  
+14	Chung-Yong Lee	Chung-Yong Lee Right Wing Jul 2, 1988 (28)	Korea, South	1,50 Mill. €  
+17	Christian Benteke	Christian Benteke Centre-Forward Dec 3, 1990 (26)	Belgium 27,00 Mill. €  
+8	Loïc Rémy	Loïc Rémy Centre-Forward Jan 2, 1987 (29)	France 9,00 Mill. €  
+21	Connor Wickham	Connor Wickham Centre-Forward Mar 31, 1993 (23)	England 6,00 Mill. €  
+9	Fraizer Campbell	Fraizer Campbell Centre-Forward Sep 13, 1987 (29)	England 2,50 Mill. €  
+32	Kwesi Appiah	Kwesi Appiah Centre-Forward Aug 12, 1990 (26)	Ghana 250 Th. €  

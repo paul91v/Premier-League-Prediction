@@ -1,0 +1,22 @@
+1	Ben Foster	Ben Foster Keeper Apr 3, 1983 (33)	England	4,00 Mill. €  
+13	Boaz Myhill	Boaz Myhill Keeper Nov 9, 1982 (34)	Wales 2,00 Mill. €  
+38	Jack Rose	Jack Rose KeeperJan 31, 1995 (21)	England	100 Th. €  
+6	Jonny Evans	Jonny Evans Centre-Back Jan 3, 1988 (28)	Northern Ireland	6,00 Mill. €  
+3	Jonas Olsson	Jonas Olsson Centre-Back Mar 10, 1983 (33)	Sweden	1,50 Mill. €  
+23	Gareth McAuley	Gareth McAuley Centre-Back Dec 5, 1979 (37)	Northern Ireland	1,00 Mill. €  
+20	Brendan Galloway	Brendan Galloway Left-Back Mar 17, 1996 (20)	England 3,00 Mill. €  
+25	Craig Dawson	Craig Dawson Right-Back May 6, 1990 (26)	England	6,00 Mill. €  
+2	Allan Nyom	Allan Nyom Right-Back May 10, 1988 (28)	Cameroon 4,00 Mill. €  
+5	Claudio Yacob	Claudio Yacob Defensive Midfield Jul 18, 1987 (29)	Argentina 4,00 Mill. €  
+7	James Morrison	James Morrison Central Midfield May 25, 1986 (30)	Scotland 5,00 Mill. €  
+8	Craig Gardner	Craig Gardner Central Midfield Nov 25, 1986 (30)	England	3,50 Mill. €  
+24	Darren Fletcher	Darren Fletcher Central Midfield Feb 1, 1984 (32)	Scotland	2,00 Mill. €  
+11	Chris Brunt	Chris Brunt Left Midfield Dec 14, 1984 (32)	Northern Ireland	4,00 Mill. €  
+22	Nacer Chadli	Nacer Chadli Left Wing Aug 2, 1989 (27)	Belgium 15,00 Mill. €  
+10	Matt Phillips	Matt Phillips Right Wing Mar 13, 1991 (25)	Scotland 6,00 Mill. €  
+4	Hal Robson-Kanu	Hal Robson-Kanu Left Wing May 21, 1989 (27)	Wales 3,00 Mill. €  
+14	James McClean	James McClean Left Wing Apr 22, 1989 (27)	Ireland 3,00 Mill. €  
+19	Callum McManaman	Callum McManaman Right Wing Apr 25, 1991 (25)	England 4,00 Mill. €  
+45	Jonathan Leko	Jonathan Leko Right Wing Apr 24, 1999 (17)	England 1,50 Mill. €  
+9	José Salomón Rondón	José Salomón Rondón Centre-Forward Sep 16, 1989 (27)	Venezuela	17,00 Mill. €  
+18	Saido Berahino	Saido Berahino Centre-Forward Aug 4, 1993 (23)	England 15,00 Mill. €  

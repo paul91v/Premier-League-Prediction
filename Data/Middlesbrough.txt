@@ -1,0 +1,27 @@
+12	Brad Guzan	Brad Guzan Keeper Sep 9, 1984 (32)	United States 2,50 Mill. €  
+26	Víctor Valdés	Víctor Valdés Keeper Jan 14, 1982 (34)	Spain	2,50 Mill. €  
+1	Dimitrios Konstantopoulos	Dimitrios Konstantopoulos Keeper Nov 29, 1978 (38)	Greece	250 Th. €  
+13	Tomás Mejías	Tomás Mejías Keeper Jan 30, 1989 (27)	Spain	250 Th. €  
+5	Bernardo Espinosa	Bernardo Espinosa Centre-Back Jul 11, 1989 (27)	Colombia Spain	2,50 Mill. €  
+4	Daniel Ayala	Daniel Ayala Centre-Back Nov 7, 1990 (26)	Spain	2,00 Mill. €  
+6	Ben Gibson	Ben Gibson Centre-Back Jan 15, 1993 (23)	England	2,00 Mill. €  
+2	Fábio	Fábio Left-Back Jul 9, 1990 (26)	Brazil Portugal	2,00 Mill. €  
+3	George Friend	George Friend Left-Back Oct 19, 1987 (29)	England	1,50 Mill. €  
+40	James Husband	James Husband Left-Back Jan 3, 1994 (22)	England	500 Th. €  
+25	Calum Chambers	Calum Chambers Right-Back Jan 20, 1995 (21)	England	12,00 Mill. €  
+17	Antonio Barragán	Antonio Barragán Right-Back Jun 12, 1987 (29)	Spain	3,50 Mill. €  
+24	Emilio Nsue	Emilio Nsue Right-Back Sep 30, 1989 (27)	Equatorial Guinea 2,00 Mill. €  
+23	Julien de Sart	Julien de Sart Defensive Midfield Dec 23, 1994 (22)	Belgium	2,00 Mill. €  
+14	Marten de Roon	Marten de Roon Central Midfield Mar 29, 1991 (25)	Netherlands	10,00 Mill. €  
+8	Adam Clayton	Adam Clayton Central Midfield Jan 14, 1989 (27)	England	2,50 Mill. €  
+34	Adam Forshaw	Adam Forshaw Central Midfield Oct 8, 1991 (25)	England	2,25 Mill. €  
+7	Grant Leadbitter	Grant Leadbitter Central Midfield Jan 7, 1986 (30)	England	2,00 Mill. €  
+19	Stewart Downing	Stewart Downing Left Midfield Jul 22, 1984 (32)	England	6,00 Mill. €  
+16	Carlos de Pena	Carlos de Pena Left Midfield Mar 11, 1992 (24)	Uruguay 2,50 Mill. €  
+21	Gastón Ramírez	Gastón Ramírez Attacking Midfield Dec 2, 1990 (26)	Uruguay	5,00 Mill. €  
+37	Adama Traoré	Adama Traoré Right Wing Jan 25, 1996 (20)	Spain 7,00 Mill. €  
+11	Viktor Fischer	Viktor Fischer Left Wing Jun 9, 1994 (22)	Denmark	5,00 Mill. €  
+9	Jordan Rhodes	Jordan Rhodes Centre-Forward Feb 5, 1990 (26)	Scotland 10,00 Mill. €  
+10	Álvaro Negredo	Álvaro Negredo Centre-Forward Aug 20, 1985 (31)	Spain	7,50 Mill. €  
+18	Cristhian Stuani	Cristhian Stuani Centre-Forward Oct 12, 1986 (30)	Uruguay 4,00 Mill. €  
+35	David Nugent	David Nugent Centre-Forward May 2, 1985 (31)	England	3,50 Mill. €  

@@ -1,0 +1,24 @@
+1	Lukasz Fabianski	Lukasz Fabianski Keeper Apr 18, 1985 (31)	Poland	9,00 Mill. €  
+13	Kristoffer Nordfeldt	Kristoffer Nordfeldt Keeper Jun 23, 1989 (27)	Sweden	2,50 Mill. €  
+19	Mark Birighitti	Mark Birighitti Keeper Apr 17, 1991 (25)	Australia 1,00 Mill. €  
+25	Gerhard Tremmel	Gerhard Tremmel Keeper Nov 16, 1978 (38)	Germany	500 Th. €  
+33	Federico Fernández	Federico Fernández Centre-Back Feb 21, 1989 (27)	Argentina 9,00 Mill. €  
+2	Jordi Amat	Jordi Amat Centre-Back Mar 21, 1992 (24)	Spain	2,50 Mill. €  
+5	Mike van der Hoorn	Mike van der Hoorn Centre-Back Oct 31, 1992 (24)	Netherlands	2,50 Mill. €  
+6	Alfie Mawson	Alfie Mawson Centre-Back Jan 19, 1994 (22)	England	1,00 Mill. €  
+3	Neil Taylor	Neil Taylor Left-Back Feb 7, 1989 (27)	Wales	6,00 Mill. €  
+35	Stephen Kingsley	Stephen Kingsley Left-Back Jul 23, 1994 (22)	Scotland	500 Th. €  
+26	Kyle Naughton	Kyle Naughton Right-Back Nov 11, 1988 (28)	England 5,00 Mill. €  
+22	Ángel Rangel	Ángel Rangel Right-Back  Oct 28, 1982 (34)	Spain	1,50 Mill. €  
+4	Sung-Yong Ki	Sung-Yong Ki . Defensive Midfield Jan 24, 1989 (27)	Korea, South	7,50 Mill. €  
+24	Jack Cork	Jack Cork Defensive Midfield Jun 25, 1989 (27)	England	5,00 Mill. €  
+8	Leroy Fer	Leroy Fer Central Midfield Jan 5, 1990 (26)	Netherlands 8,00 Mill. €  
+7	Leon Britton	Leon Britton Central Midfield Sep 16, 1982 (34)	England	1,50 Mill. €  
+56	Jay Fulton	Jay Fulton Central Midfield Apr 4, 1994 (22)	Scotland  250 Th. €  
+23	Gylfi Sigurdsson	Gylfi Sigurdsson Attacking Midfield Sep 9, 1989 (27)	Iceland	17,00 Mill. €  
+20	Jefferson Montero	Jefferson Montero Left Wing Sep 1, 1989 (27)	Ecuador	5,50 Mill. €  
+15	Wayne Routledge	Wayne Routledge Left Wing Jan 7, 1985 (31)	England 3,00 Mill. €  
+12	Nathan Dyer	Nathan Dyer Right Wing Nov 29, 1987 (29)	England 4,00 Mill. €  
+17	Modou Barrow	Modou Barrow Right Wing Oct 13, 1992 (24)	The Gambia 3,00 Mill. €  
+10	Borja Bastón	Borja Bastón Centre-Forward Aug 25, 1992 (24)	Spain	10,00 Mill. €  
+9	Fernando Llorente	Fernando Llorente Centre-Forward Feb 26, 1985 (31)	Spain	6,00 Mill. €  

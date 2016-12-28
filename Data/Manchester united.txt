@@ -1,0 +1,27 @@
+1	David de Gea	David de Gea Keeper Nov 7, 1990 (26)	Spain	40,00 Mill. €  
+20	Sergio Romero	Sergio Romero Keeper Feb 22, 1987 (29)	Argentina Italy	5,00 Mill. €  
+32	Sam Johnstone	Sam Johnstone Keeper Mar 25, 1993 (23)	England	250 Th. €  
+3	Eric Bailly	Eric Bailly Centre-Back Apr 12, 1994 (22)	Cote d'Ivoire	25,00 Mill. €  
+17	Daley Blind	Daley Blind Centre-Back Mar 9, 1990 (26)	Netherlands	22,00 Mill. €  
+12	Chris Smalling	Chris Smalling Centre-Back Nov 22, 1989 (27)	England	20,00 Mill. €  
+5	Marcos Rojo	Marcos Rojo Centre-Back Mar 20, 1990 (26)	Argentina	19,00 Mill. €  
+4	Phil Jones	Phil Jones Centre-Back Feb 21, 1992 (24)	England	14,00 Mill. €  
+23	Luke Shaw	Luke Shaw Left-Back Jul 12, 1995 (21)	England	21,00 Mill. €  
+36	Matteo Darmian	Matteo Darmian Right-Back Dec 2, 1989 (27)	Italy	15,00 Mill. €  
+25	Antonio Valencia	Antonio Valencia Right-Back Aug 4, 1985 (31)	Ecuador	8,00 Mill. €  
+28	Morgan Schneiderlin	Morgan Schneiderlin Defensive Midfield Nov 8, 1989 (27)	France	28,00 Mill. €  
+16	Michael Carrick	Michael Carrick Defensive Midfield Jul 28, 1981 (35)	England	3,00 Mill. €  
+24	Timothy Fosu-Mensah	Timothy Fosu-Mensah Defensive Midfield Jan 2, 1998 (18)	Netherlands 1,00 Mill. €
+6	Juventus FC Paul Pogba	Paul Pogba Central Midfield Mar 15, 1993 (23)	France 80,00 Mill. €
+21	Ander Herrera	Ander Herrera Central Midfield Aug 14, 1989 (27)	Spain	28,00 Mill. €  
+27	Marouane Fellaini	Marouane Fellaini Central Midfield Nov 22, 1987 (29)	Belgium 15,00 Mill. €
+31	Bastian Schweinsteiger	Bastian Schweinsteiger Central Midfield Aug 1, 1984 (32)	Germany	8,00 Mill. €  
+22	Borussia Dortmund Henrikh Mkhitaryan	Henrikh Mkhitaryan Attacking Midfield Jan 21, 1989 (27)	Armenia	37,00 Mill. €  
+8	Juan Mata	Juan Mata Attacking Midfield Apr 28, 1988 (28)	Spain	31,00 Mill. €  
+18	Ashley Young	Ashley Young Left Wing Jul 9, 1985 (31)	England 10,00 Mill. €
+14	Jesse Lingard	Jesse Lingard Left Wing Dec 15, 1992 (24)	England	9,00 Mill. €  
+7	Memphis Depay	Memphis Depay Left Wing Feb 13, 1994 (22)	Netherlands 25,00 Mill. €  
+10	Wayne Rooney	Wayne Rooney Secondary Striker Oct 24, 1985 (31)	England	30,00 Mill. €  
+11	Anthony Martial	Anthony Martial Centre-Forward Dec 5, 1995 (21)	France 32,00 Mill. €  
+9	Paris Saint-Germain Zlatan Ibrahimovic	Zlatan Ibrahimovic Centre-Forward Oct 3, 1981 (35)	Sweden 12,00 Mill. €  
+19	Marcus Rashford	Marcus Rashford Centre-Forward Oct 31, 1997 (19)	England	10,00 Mill. €  

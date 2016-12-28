@@ -1,0 +1,27 @@
+13	Thibaut Courtois	Thibaut Courtois Keeper May 11, 1992 (24)	Belgium	35,00 Mill. €  
+1	Asmir Begovic	Asmir Begovic Keeper Jun 20, 1987 (29)	Bosnia-Herzegovina 10,00 Mill. €  
+37	Eduardo	Eduardo Keeper Sep 19, 1982 (34)	Portugal	1,50 Mill. €  
+30	David Luiz	David Luiz Centre-Back Apr 22, 1987 (29)	Brazil 30,00 Mill. €  
+5	Kurt Zouma	Kurt Zouma Centre-Back Oct 27, 1994 (22)	France 17,00 Mill. €  
+24	Gary Cahill	Gary Cahill Centre-Back Dec 19, 1985 (31)	England	16,00 Mill. €  
+26	John Terry	John Terry Centre-Back Dec 7, 1980 (36)	England	2,50 Mill. €  
+28	César Azpilicueta	César Azpilicueta Left-Back Aug 28, 1989 (27)	Spain	20,00 Mill. €  
+3	Marcos Alonso	Marcos Alonso Left-Back Dec 28, 1990 (25)	Spain	13,00 Mill. €  
+-	Kenedy	Kenedy Left-Back Feb 8, 1996 (20)	Brazil	8,00 Mill. €  
+2	Branislav Ivanovic	Branislav Ivanovic Right-Back Feb 22, 1984 (32)	Serbia	10,00 Mill. €  
+-	Todd Kane	Todd Kane  Right-Back Sep 17, 1993 (23)	England 1,50 Mill. €  
+34	Ola Aina	Ola Aina Right-Back Oct 8, 1996 (20)	England 500 Th. €  
+21	Nemanja Matic	Nemanja Matic Defensive Midfield Aug 1, 1988 (28)	Serbia 32,00 Mill. €  
+7	N'Golo Kanté	N'Golo Kanté Defensive Midfield Mar 29, 1991 (25)	France 30,00 Mill. €  
+12	John Mikel Obi	John Mikel Obi Defensive Midfield Apr 22, 1987 (29)	Nigeria 11,00 Mill. €  
+29	Nathaniel Chalobah	Nathaniel Chalobah Defensive Midfield Dec 12, 1994 (22)	England 3,30 Mill. €  
+4	Cesc Fàbregas	Cesc Fàbregas Central Midfield May 4, 1987 (29)	Spain	45,00 Mill. €  
+-	Marco van Ginkel	Marco van Ginkel Central Midfield Dec 1, 1992 (24)	Netherlands	7,00 Mill. €  
+14	Ruben Loftus-Cheek	Ruben Loftus-Cheek Central Midfield Jan 23, 1996 (20)	England 5,00 Mill. €  
+8	Oscar	Oscar Attacking Midfield Sep 9, 1991 (25)	Brazil	35,00 Mill. €  
+10	Eden Hazard	Eden Hazard Left Wing Jan 7, 1991 (25)	Belgium	65,00 Mill. €  
+22	Willian	Willian Right Wing Aug 9, 1988 (28)	Brazil	32,00 Mill. €  
+11	Pedro	Pedro Right Wing Jul 28, 1987 (29)	Spain	23,00 Mill. €  
+15	Victor Moses	Victor Moses Right Wing Dec 12, 1990 (26)	Nigeria 7,00 Mill. €  
+19	Diego Costa	Diego Costa Centre-Forward Oct 7, 1988 (28)	Spain 45,00 Mill. €  
+23	Michy Batshuayi	Michy Batshuayi Centre-Forward Oct 2, 1993 (23)	Belgium 25,00 Mill. €  

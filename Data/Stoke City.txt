@@ -1,0 +1,27 @@
+1	Jack Butland	Jack Butland Keeper Mar 10, 1993 (23)	England	9,00 Mill. €  
+29	Jakob Haugaard	Jakob Haugaard Keeper May 1, 1992 (24)	Denmark	1,00 Mill. €  
+24	Shay Given	Shay Given Keeper Apr 20, 1976 (40)	Ireland	500 Th. €  
+33	Lee Grant	Lee Grant KeeperJan 27, 1983 (33)	England	500 Th. €  
+35	Daniel Bachmann	Daniel Bachmann KeeperJul 9, 1994 (22)	Austria	250 Th. €  
+17	Ryan Shawcross	Ryan Shawcross Centre-Back Oct 4, 1987 (29)	England 11,00 Mill. €  
+15	Bruno Martins Indi	Bruno Martins Indi Centre-Back Feb 8, 1992 (24)	Netherlands 10,00 Mill. €  
+5	Marc Muniesa	Marc Muniesa Centre-Back Mar 27, 1992 (24)	Spain	3,50 Mill. €  
+20	Geoff Cameron	Geoff Cameron Centre-Back Jul 11, 1985 (31)	United States	3,00 Mill. €  
+23	Dionatan Teixeira	Dionatan Teixeira Centre-Back Jul 24, 1992 (24)	Slovakia 500 Th. €  
+3	Erik Pieters	Erik Pieters Left-Back Aug 7, 1988 (28)	Netherlands	7,00 Mill. €  
+8	Glen Johnson	Glen Johnson Right-Back Aug 23, 1984 (32)	England	7,00 Mill. €  
+2	Phil Bardsley	Phil Bardsley Right-Back Jun 28, 1985 (31)	Scotland 1,50 Mill. €  
+21	Giannelli Imbula	Giannelli Imbula Defensive Midfield Sep 12, 1992 (24)	France 18,00 Mill. €  
+6	Glenn Whelan	Glenn Whelan Defensive Midfield Jan 13, 1984 (32)	Ireland	3,00 Mill. €  
+4	Joe Allen	Joe Allen Central Midfield Mar 14, 1990 (26)	Wales	12,00 Mill. €  
+16	Charlie Adam	Charlie Adam Central Midfield Dec 10, 1985 (31)	Scotland	4,50 Mill. €  
+7	Stephen Ireland	Stephen Ireland Attacking Midfield Aug 22, 1986 (30)	Ireland	1,50 Mill. €  
+14	Ibrahim Afellay	Ibrahim Afellay Left Wing Apr 2, 1986 (30)	Netherlands 5,00 Mill. €  
+32	Ramadan Sobhi	Ramadan Sobhi Left Wing Jun 27, 1997 (19)	Egypt	2,50 Mill. €  
+22	Xherdan Shaqiri	Xherdan Shaqiri Right Wing Oct 10, 1991 (25)	Switzerland 15,00 Mill. €  
+10	Marko Arnautovic	Marko Arnautovic Left Wing Apr 19, 1989 (27)	Austria 12,00 Mill. €  
+19	Jonathan Walters	Jonathan Walters Right Wing Sep 20, 1983 (33)	Ireland England	3,50 Mill. €  
+27	Bojan Krkic	Bojan Krkic Secondary Striker Aug 28, 1990 (26)	Spain 10,00 Mill. €  
+12	Wilfried Bony	Wilfried Bony Centre-Forward Dec 10, 1988 (28)	Cote d'Ivoire	20,00 Mill. €  
+18	Mame Diouf	Mame Diouf Centre-Forward Dec 16, 1987 (29)	Senegal	8,00 Mill. €  
+25	Peter Crouch	Peter Crouch Centre-Forward Jan 30, 1981 (35)	England 1,50 Mill. €  

@@ -1,0 +1,29 @@
+33	Petr Cech	Petr Cech Keeper May 20, 1982 (34)	Czech Republic	12,00 Mill. €  
+13	David Ospina	David Ospina Keeper Aug 31, 1988 (28)	Colombia	8,00 Mill. €  
+26	Emiliano Martínez	Emiliano Martínez Keeper Sep 2, 1992 (24)	Argentina	1,50 Mill. €  
+54	Matt Macey	Matt Macey Keeper Sep 9, 1994 (22)	England	500 Th. €  
+20	Shkodran Mustafi	Shkodran Mustafi Centre-Back Apr 17, 1992 (24)	Germany 30,00 Mill. €  
+6	Laurent Koscielny	Laurent Koscielny Centre-Back Sep 10, 1985 (31)	France 22,00 Mill. €  
+5	Gabriel Paulista	Gabriel Paulista Centre-Back Nov 26, 1990 (26)	Brazil	12,00 Mill. €  
+4	Per Mertesacker	Per Mertesacker  Centre-Back Sep 29, 1984 (32)	Germany	10,00 Mill. €  
+16	Rob Holding	Rob Holding Centre-Back Sep 20, 1995 (21)	England	2,50 Mill. €  
+18	Nacho Monreal	Nacho Monreal Left-Back Feb 26, 1986 (30)	Spain	15,00 Mill. €  
+3	Kieran Gibbs	Kieran Gibbs Left-Back Sep 26, 1989 (27)	England	13,00 Mill. €  
+24	Héctor Bellerín	Héctor Bellerín Right-Back Mar 19, 1995 (21)	Spain	20,00 Mill. €  
+25	Carl Jenkinson	Carl Jenkinson Right-Back Feb 8, 1992 (24)	England 9,00 Mill. €  
+2	Mathieu Debuchy	Mathieu Debuchy Right-Back Jul 28, 1985 (31)	France	7,50 Mill. €  
+34	Francis Coquelin	Francis Coquelin Defensive Midfield May 13, 1991 (25)	France	13,00 Mill. €  
+35	Mohamed Elneny	Mohamed Elneny Defensive Midfield Jul 11, 1992 (24)	Egypt	8,50 Mill. €  
+8	Aaron Ramsey	Aaron Ramsey Central Midfield Dec 26, 1990 (26)	Wales	35,00 Mill. €  
+29	Granit Xhaka	Granit Xhaka Central Midfield Sep 27, 1992 (24)	Switzerland 35,00 Mill. €  
+19	Santi Cazorla	Santi Cazorla Central Midfield Dec 13, 1984 (32)	Spain	20,00 Mill. €  
+11	Mesut Özil	Mesut Özil Attacking Midfield Oct 15, 1988 (28)	Germany	50,00 Mill. €  
+17	Alex Iwobi	Alex Iwobi Left Wing May 3, 1996 (20)	England	8,00 Mill. €  
+15	Alex Oxlade-Chamberlain	Alex Oxlade-Chamberlain Right Wing Aug 15, 1993 (23)	England	20,00 Mill. €  
+7	Alexis Sánchez	Alexis Sánchez Left Wing Dec 19, 1988 (28)	Chile	55,00 Mill. €  
+14	Theo Walcott	Theo Walcott Right Wing Mar 16, 1989 (27)	England	22,00 Mill. €  
+12	Olivier Giroud	Olivier Giroud Centre-Forward Sep 30, 1986 (30)	France	25,00 Mill. €  
+9	Lucas Pérez	Lucas Pérez Centre-Forward Sep 10, 1988 (28)	Spain	17,00 Mill. €  
+23	Danny Welbeck	Danny Welbeck Centre-Forward Nov 26, 1990 (26)	England 17,00 Mill. €  
+22	Yaya Sanogo	Yaya Sanogo Centre-Forward Jan 27, 1993 (23)	France 1,00 Mill. €  
+32	Chuba Akpom	Chuba Akpom Centre-Forward Oct 9, 1995 (21)	England 1,00 Mill. €  

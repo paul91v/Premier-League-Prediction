@@ -1,0 +1,28 @@
+30	Costel Pantilimon	Costel Pantilimon Keeper Feb 1, 1987 (29)	Romania	4,50 Mill. €  
+34	Giedrius Arlauskis	Giedrius Arlauskis Keeper Dec 1, 1987 (29)	Lithuania	1,25 Mill. €  
+1	Heurelho Gomes	Heurelho Gomes Keeper Feb 15, 1981 (35)	Brazil	1,00 Mill. €  
+13	Rene Gilmartin	Rene Gilmartin Keeper May 31, 1987 (29)	Ireland	250 Th. €  
+27	Christian Kabasele	Christian Kabasele Centre-Back Feb 24, 1991 (25)	Belgium 6,00 Mill. €  
+5	Sebastian Prödl	Sebastian Prödl Centre-Back Jun 21, 1987 (29)	Austria	4,00 Mill. €  
+15	Craig Cathcart	Craig Cathcart Centre-Back Feb 6, 1989 (27)	Northern Ireland	4,00 Mill. €  
+3	Miguel Britos	Miguel Britos Centre-Back Jul 17, 1985 (31)	Uruguay	3,50 Mill. €  
+4	Younès Kaboul	Younès Kaboul Centre-Back Jan 4, 1986 (30)	France 2,50 Mill. €  
+6	Adrian Mariappa	Adrian Mariappa Centre-Back Oct 3, 1986 (30)	Jamaica 1,50 Mill. €  
+25	José Holebas	José Holebas Left-Back Jun 27, 1984 (32)	Greece 2,00 Mill. €  
+22	Daryl Janmaat	Daryl Janmaat Right-Back Jul 22, 1989 (27)	Netherlands	7,50 Mill. €  
+26	Brice Dja Djedjé	Brice Dja Djedjé  Right-Back Dec 23, 1990 (26)	Cote d'Ivoire 3,50 Mill. €  
+14	Juan Carlos Paredes	Juan Carlos Paredes Right-Back Jul 8, 1987 (29)	Ecuador	2,00 Mill. €  
+29	Étienne Capoue	Étienne Capoue Defensive Midfield Jul 11, 1988 (28)	France 10,00 Mill. €  
+11	Valon Behrami	Valon Behrami Defensive Midfield Apr 19, 1985 (31)	Switzerland  2,50 Mill. €  
+16	Abdoulaye Doucouré	Abdoulaye Doucouré Central Midfield Jan 1, 1993 (23)	France 6,00 Mill. €  
+23	Ben Watson	Ben Watson Central Midfield Jul 9, 1985 (31)	England	1,50 Mill. €  
+17	Adlène Guédioura	Adlène Guédioura Central Midfield Nov 12, 1985 (31)	Algeria 1,00 Mill. €  
+18	Camilo Zúñiga	Camilo Zúñiga Left Midfield Dec 14, 1985 (31)	Colombia	1,50 Mill. €  
+37	Roberto Pereyra	Roberto Pereyra Attacking Midfield Jan 7, 1991 (25)	Argentina	16,00 Mill. €  
+7	Nordin Amrabat	Nordin Amrabat Left Wing Mar 31, 1987 (29)	Morocco 4,50 Mill. €  
+10	Isaac Success	Isaac Success Right Wing Jan 7, 1996 (20)	Nigeria	4,00 Mill. €  
+24	Odion Ighalo	Odion Ighalo Centre-Forward Jun 16, 1989 (27)	Nigeria  12,00 Mill. €  
+9	Troy Deeney	Troy Deeney Centre-Forward Jun 29, 1988 (28)	England 11,00 Mill. €  
+33	Stefano Okaka	Stefano Okaka Centre-Forward Aug 9, 1989 (27)	Italy 6,50 Mill. €  
+19	Jerome Sinclair	Jerome Sinclair Centre-Forward Sep 20, 1996 (20)	England 1,50 Mill. €  
+-	Mathias Ranégie	Mathias Ranégie Centre-Forward Jun 14, 1984 (32)	Sweden	500 Th. €  

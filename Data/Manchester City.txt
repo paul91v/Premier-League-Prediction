@@ -1,0 +1,23 @@
+1	Claudio Bravo	Claudio Bravo Keeper Apr 13, 1983 (33)	Chile 15,00 Mill. €  
+13	Willy Caballero	Willy Caballero Keeper Sep 28, 1981 (35)	Argentina 2,00 Mill. €  
+54	Angus Gunn	Angus Gunn Keeper Jan 22, 1996 (20)	England 250 Th. €  
+24	John Stones	John Stones Centre-Back May 28, 1994 (22)	England	35,00 Mill. €  
+30	Nicolás Otamendi	Nicolás Otamendi Centre-Back Feb 12, 1988 (28)	Argentina	32,00 Mill. €  
+4	Vincent Kompany	Vincent Kompany  Centre-Back Apr 10, 1986 (30)	Belgium 30,00 Mill. €  
+11	Aleksandar Kolarov	Aleksandar Kolarov Left-Back Nov 10, 1985 (31)	Serbia	11,00 Mill. €  
+22	Gaël Clichy	Gaël Clichy Left-Back Jul 26, 1985 (31)	France 9,00 Mill. €  
+5	Pablo Zabaleta	Pablo Zabaleta Right-Back Jan 16, 1985 (31)	Argentina 10,00 Mill. €  
+3	Bacary Sagna	Bacary Sagna Right-Back Feb 14, 1983 (33)	France 8,00 Mill. €  
+6	Fernando	Fernando Defensive Midfield Jul 25, 1987 (29)	Brazil Portugal	16,00 Mill. €  
+8	Ilkay Gündogan	Ilkay Gündogan Central Midfield Oct 24, 1990 (26)	Germany	30,00 Mill. €  
+25	Fernandinho	Fernandinho Central Midfield May 4, 1985 (31)	Brazil	28,00 Mill. €  
+42	Yaya Touré	Yaya Touré Central Midfield May 13, 1983 (33)	Cote d'Ivoire	12,00 Mill. €  
+18	Fabian Delph	Fabian Delph Central Midfield Nov 21, 1989 (27)	England 10,00 Mill. €  
+17	Kevin De Bruyne	Kevin De Bruyne Attacking Midfield Jun 28, 1991 (25)	Belgium	60,00 Mill. €  
+21	David Silva	David Silva Attacking Midfield Jan 8, 1986 (30)	Spain	33,00 Mill. €  
+19	Leroy Sané	Leroy Sané Attacking Midfield Jan 11, 1996 (20)	Germany 30,00 Mill. €  
+9	Nolito	Nolito Left Wing Oct 15, 1986 (30)	Spain	18,00 Mill. €  
+15	Jesús Navas	Jesús Navas Right Wing Nov 21, 1985 (31)	Spain	20,00 Mill. €  
+7	Raheem Sterling	Raheem Sterling Left Wing Dec 8, 1994 (22)	England 45,00 Mill. €  
+10	Sergio Agüero	Sergio Agüero Centre-Forward Jun 2, 1988 (28)	Argentina 60,00 Mill. €  
+72	Kelechi Iheanacho	Kelechi Iheanacho Centre-Forward Oct 3, 1996 (20)	Nigeria	10,00 Mill. €  
